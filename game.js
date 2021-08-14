@@ -3154,7 +3154,7 @@ ig.module("rogers")
             gameOverType: null,
             gamePaused: false,
             gameCompleted: false,
-            maxScore: 20000,
+            maxScore: 2000,
             score: 0,
             speed: 1.5,
             seconds: null,
